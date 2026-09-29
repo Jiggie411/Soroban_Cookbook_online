@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Soroban example multiparty escrow with depositor, recipient, and arbitrator roles."
 keywords = ["soroban", "example", "escrow-multiparty"]
-
+license = "MIT"
 [lib]
 crate-type = ["cdylib", "rlib"]
 
